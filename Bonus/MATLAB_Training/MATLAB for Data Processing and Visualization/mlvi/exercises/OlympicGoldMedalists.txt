@@ -1,0 +1,286 @@
+OLYMPIC GAMES
+Lists Olympic Gold medalists for the
+following Men's Track & Field events:
+
+* 100-Meter Dash
+* 200-Meter Dash
+* 400-Meter Dash
+* Marathon
+* High Jump
+* Long Jump
+* Shot Put
+* Hammer Throw
+* Decathlon
+
+(Source: http://www.iaaf.org)
+
+
+*** 100-Meter Dash ***
+
+Year Athlete Nation Seconds
+1896 Thomas Burke, USA 12.0
+1900 Frank Jarvis, USA 11.0
+1904 Archie Hahn, USA 11.0
+1906 Archie Hahn, USA 11.2
+1908 Reggie Walker, SAF 10.8
+1912 Ralph Craig, USA 10.8
+1920 Charles Paddock, USA 10.8
+1924 Harold Abrahams, GBR 10.6
+1928 Percy Williams, CAN 10.8
+1932 Eddie Tolan, USA 10.38
+1936 Jesse Owens, USA 10.3
+1948 Harrison Dillard, USA 10.3
+1952 Lindy Remigino, USA 10.79
+1956 Bobby Morrow, USA 10.62
+1960 Armin Hary, GER 10.32
+1964 Bob Hayes, USA 10.06
+1968 Jim Hines, USA 9.95
+1972 Valeriy Borzov, URS 10.14
+1976 Hasely Crawford, TRI 10.06
+1980 Allan Wells, GBR 10.25
+1984 Carl Lewis, USA 9.99
+1988 Carl Lewis, USA 9.92
+1992 Linford Christie, GBR 9.96
+1996 Donovan Bailey, CAN 9.84
+2000 Maurice Greene, USA 9.87
+2004 Justin Gatlin, USA 9.85
+2008 Usain Bolt, JAM 9.69
+
+*** 200-Meter Dash ***
+
+Year Athlete Nation Seconds
+1900 Walter Tewksbury, USA 22.2
+1904 Archie Hahn, USA 21.6
+1908 Robert Kerr, CAN 22.6
+1912 Ralph Craig, USA 21.7
+1920 Allen Woodring, USA 22.0
+1924 Jackson Scholz, USA 21.6
+1928 Percy Williams, CAN 21.8
+1932 Eddie Tolan, USA 21.12
+1936 Jesse Owens, USA 20.7
+1948 Mel Patton, USA 21.1
+1952 Andy Stanfield, USA 20.81
+1956 Bobby Joe Morrow, USA 20.75
+1960 Livio Berruti, ITA 20.62
+1964 Henry Carr, USA 20.36
+1968 Tommie Smith, USA 19.83
+1972 Valeriy Borzov, URS 20.00
+1976 Don Quarrie, JAM 20.23
+1980 Pietro Mennea, ITA 20.19
+1984 Carl Lewis, USA 19.80
+1988 Joe DeLoach, USA 19.75
+1992 Mike Marsh, USA 20.01
+1996 Michael Johnson, USA 19.32
+2000 Konstantinos Kenteris, GRE 20.09
+2004 Shawn Crawford, USA 19.79
+2008 Usain Bolt, JAM 19.30
+
+*** 400-Meter Dash ***
+
+Year Athlete Nation Seconds
+1896 Thomas Burke, USA 54.2
+1900 Maxey Long, USA 49.4
+1904 Harry Hillman, USA 49.2
+1906 Paul Pilgrim, USA 53.2
+1908 Wyndham Halswelle, GBR 50.0
+1912 Charles Reidpath, USA 48.2
+1920 Bevil Rudd, SAF 49.6
+1924 Eric Liddell, GBR 47.6
+1928 Ray Barbuti, USA 47.8
+1932 Bill Carr, USA 46.28
+1936 Archie Williams, USA 46.66
+1948 Arthur Wint, JAM 46.2
+1952 George Rhoden, JAM 46.09
+1956 Charles Jenkins, USA 46.85
+1960 Otis Davis, USA 45.07
+1964 Mike Larrabee, USA 45.15
+1968 Lee Evans, USA 43.86
+1972 Vince Matthews, USA 44.66
+1976 Alberto Juantorena, CUB 44.26
+1980 Viktor Markin, URS 44.60
+1984 Alonzo Babers, USA 44.27
+1988 Steve Lewis, USA 43.87
+1992 Quincy Watts, USA 43.50
+1996 Michael Johnson, USA 43.49
+2000 Michael Johnson, USA 43.84
+2004 Jeremy Wariner, USA 44.00
+2008 LaShawn Merritt, USA 43.75
+
+*** Marathon ***
+
+Year Athlete Nation ElapsedTime
+1896 Spyridon Louis, GRE 2:58:50
+1900 Michel Théato, FRA 2:59:45
+1904 Thomas Hicks, USA 3:28:53
+1906 William Sherring, CAN 2:51:24
+1908 John Hayes, USA 2:55:19
+1912 Kenneth MacArthur, SAF 2:36:55
+1920 Hannes Kolehmainen, FIN 2:32:36
+1924 Albin Stenroos, FIN 2:41:23
+1928 Mohamed El Ouafi, FRA 2:32:57
+1932 Juan Carlos Zabala, ARG 2:31:36
+1936 Sohn Kee-Chung, JPN 2:29:20
+1948 Delfo Cabrera, ARG 2:34:52
+1952 Emil Zátopek, TCH 2:23:04
+1956 Alain Mimoun, FRA 2:25:00
+1960 Abebe Bikila, ETH 2:15:17
+1964 Abebe Bikila, ETH 2:12:12
+1968 Mamo Wolde, ETH 2:20:27
+1972 Frank Shorter, USA 2:12:20
+1976 Waldemar Cierpinski, GDR 2:09:55
+1980 Waldemar Cierpinski, GDR 2:11:03
+1984 Carlos Lopes, POR 2:09:21
+1988 Gelindo Bordin, ITA 2:10:32
+1992 Hwang Young-Cho, KOR 2:13:23
+1996 Josiah Thugwane, RSA 2:12:36
+2000 Gezahegne Abera, ETH 2:10:11
+2004 Stefano Baldini, ITA  2:10:55
+2008 Samuel Kamau Wansiru, KEN 2:06:32
+
+*** High Jump ***
+
+Year Athlete Nation Meters (Feet-Inches)
+1896 Ellery Clark, USA 1.81 (5-11.25)
+1900 Irving Baxter, USA 1.90 (6-2.75)
+1904 Samuel Jones, USA 1.80 (5-11)
+1906 Con Leahy, GBR 1.775 (5-10)
+1908 Harry Porter, USA 1.90 (6-2.75)
+1912 Alma Richards, USA 1.93 (6-4)
+1920 Richmond Landon, USA 1.935 (6-4)
+1924 Harold Osborn, USA 1.98 (6-6)
+1928 Robert King, USA 1.94 (6-4.5)
+1932 Duncan McNaughton, CAN 1.97 (6-5.5)
+1936 Cornelius Johnson, USA 2.03 (6-8)
+1948 John Winter, AUS 1.98 (6-6)
+1952 Walt Davis, USA 2.04 (6-8.5)
+1956 Charles Dumas, USA 2.12 (6-11.5)
+1960 Robert Shavlakadze, URS 2.16 (7-1)
+1964 Valeriy Brumel, URS 2.18 (7-1.75)
+1968 Dick Fosbury, USA 2.24 (7-4.25)
+1972 Jüri Tarmak, URS 2.23 (7-3.75)
+1976 Jacek Wszola, POL 2.25 (7-4.5)
+1980 Gerd Wessig, GDR 2.36 (7-8.75)
+1984 Dietmar Mögenburg, FRG 2.35 (7-8.5)
+1988 Gennadiy Avdyeyenko, URS 2.38 (7-9.75)
+1992 Javier Sotomayor, CUB 2.34 (7-8)
+1996 Charles Austin, USA 2.39 (7-10)
+2000 Sergey Klyugin, RUS 2.35 (7-8.5)
+2004 Stefan Holm, SWE 2.36 (7-8.75)
+2008 Andrey Silnov, RUS 2.36 (7-8.75)
+
+*** Long Jump ***
+
+Year Athlete Nation Meters (Feet-Inches)
+1896 Ellery Clark, USA 6.35 (20-10)
+1900 Alvin Kraenzlein, USA 7.185 (23-7)
+1904 Myer Prinstein, USA 7.34 (24-1)
+1906 Myer Prinstein, USA 7.20 (23-7.5)
+1908 Frank Irons, USA 7.48 (24-6.5)
+1912 Albert Gutterson, USA 7.60 (24-11.25)
+1920 William Pettersson, SWE 7.15 (23-5.5)
+1924 DeHart Hubbard, USA 7.44 (24-5)
+1928 Ed Hamm, USA 7.73 (25-4.5)
+1932 Ed Gordon, USA 7.64 (25-0.75)
+1936 Jesse Owens, USA 8.06 (26-5.5)
+1948 Willie Steele, USA 7.82 (25-8)
+1952 Jerome Biffle, USA 7.57 (24-10)
+1956 Greg Bell, USA 7.83 (25-8.25)
+1960 Ralph Boston, USA 8.12 (26-7.75)
+1964 Lynn Davies, GBR 8.07 (26-5.75)
+1968 Bob Beamon, USA 8.90 (29-2.5)
+1972 Randy Williams, USA 8.24 (27-0.5)
+1976 Arnie Robinson, USA 8.35 (27-4.25)
+1980 Lutz Dombrowski, GDR 8.54 (28-0.25)
+1984 Carl Lewis, USA 8.54 (28-0.25)
+1988 Carl Lewis, USA 8.72 (28-7.25)
+1992 Carl Lewis, USA 8.67 (28-5.5)
+1996 Carl Lewis, USA 8.50 (27-10.25)
+2000 Iván Pedroso, CUB 8.55 (28-0.75)
+2004 Dwight Phillips, USA 8.59 (28-2.25)
+2008 Irving Jahir Saladino Aranda, PAN 8.34 (27-4.25)
+
+*** Shot Put ***
+
+Year Athlete Nation Meters (Feet-Inches)
+1896 Robert Garrett, USA 11.22 (36-9.75)
+1900 Richard Sheldon, USA 14.10 (46-3.25)
+1904 Ralph Rose, USA 14.81 (48-7)
+1906 Martin Sheridan, USA 12.325 (40-5.25)
+1908 Ralph Rose, USA 14.21 (46-7.5)
+1912 Patrick "Babe" McDonald, USA 15.34 (50-4)
+1920 Ville Pörhölä, FIN 14.81 (48-7)
+1924 Clarence "Bud" Houser, USA 14.995 (49-2.25)
+1928 John Kuck, USA 15.87 (52-0.75)
+1932 Leo Sexton, USA 16.005 (52-6)
+1936 Hans Woellke, GER 16.20 (53-1.75)
+1948 Wilbur Thompson, USA 17.12 (56-2)
+1952 Parry O'Brien, USA 17.41 (57-1.5)
+1956 Parry O'Brien, USA 18.57 (60-1.25)
+1960 Bill Nieder, USA 19.68 (64-6.75)
+1964 Dallas Long, USA 20.33 (66-8.5)
+1968 Randy Matson, USA 20.54 (67-4.75)
+1972 Wladyslaw Komar, POL 21.18 (69-6)
+1976 Udo Beyer, GDR 21.05 (69-0.75)
+1980 Vladimir Kiselyov, URS 21.35 (70-0.5)
+1984 Alessandro Andrei, ITA 21.26 (69-9)
+1988 Ulf Timmermann, GDR 22.47 (73-8.75)
+1992 Mike Stulce, USA 21.70 (71-2.5)
+1996 Randy Barnes, USA 21.62 (70-11.25)
+2000 Arsi Harju, FIN 21.29 (69-10.25)
+2004 Yuriy Bilonog, UKR 21.16 (69-5.75)
+2008 Tomasz Majewski, POL 21.51 (70-7)
+
+*** Hammer Throw ***
+
+Year Athlete Nation Meters (Feet-Inches)
+1900 John Flanagan, USA 51.01 (167-4.5)
+1904 John Flanagan, USA 51.23 (168-1)
+1908 John Flanagan, USA 51.93 (170-4.5)
+1912 Matt McGrath, USA 54.74 (179-7)
+1920 Patrick Ryan, USA 52.875 (173-5)
+1924 Fred Tootell, USA 53.295 (174-10)
+1928 Pat O'Callaghan, IRL 51.39 (168-7)
+1932 Pat O'Callaghan, IRL 53.92 (176-11)
+1936 Karl Hein, GER 56.49 (185-4)
+1948 Imre Németh, HUN 56.07 (163-11)
+1952 József Csermák, HUN 60.34 (197-11)
+1956 Harold Connolly, USA 63.19 (207-3)
+1960 Vasiliy Rudenkov, URS 67.10 (220-2)
+1964 Romuald Klim, URS 69.74 (228-10)
+1968 Gyula Zsivótzky, HUN 73.36 (240-8)
+1972 Anatoliy Bondarchuk, URS 75.50 (247-8)
+1976 Yuriy Sedykh, URS 77.52 (254-4)
+1980 Yuriy Sedykh, URS 81.80 (268-4)
+1984 Juha Tiainen, FIN 78.08 (256-2)
+1988 Sergey Litvinov, URS 84.80 (278-2)
+1992 Andrey Abduvaliyev, EUN 82.54 (270-9)
+1996 Balázs Kiss, HUN 81.24 (266-6)
+2000 Szymon Ziólkowski, POL 80.02 (262-6)
+2004 Koji Murofushi, JPN 82.91 (272-0.25)
+2008 Primoz Kozmus, SLO 82.02 (269-1)
+
+*** Decathlon ***
+
+Year Athlete Nation Points
+1912 Jim Thorpe, USA 8412
+1920 Helge Løvland, NOR 6803
+1924 Harold Osborn, USA 7711
+1928 Paavo Yrjölä, FIN 8053
+1932 James Bausch, USA 8462
+1936 Glenn Morris, USA 7900
+1948 Bob Mathias, USA 7139
+1952 Bob Mathias, USA 7887
+1956 Milt Campbell, USA 7937
+1960 Rafer Johnson, USA 8392
+1964 Willi Holdorf, GER 7887
+1968 Bill Toomey, USA 8193
+1972 Nikolay Avilov, URS 8454
+1976 Bruce Jenner, USA 8618
+1980 Daley Thompson, GBR 8495
+1984 Daley Thompson, GBR 8798
+1988 Christian Schenk, GDR 8488
+1992 Robert Zmelík, TCH 8611
+1996 Dan O'Brien, USA 8824
+2000 Erki Nool, EST 8641
+2004 Roman Sebrle, CZE 8893
+2008 Bryan Clay, USA 8791
