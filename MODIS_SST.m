@@ -1,7 +1,8 @@
 % 1. Download MODIS SST monthly data produced at 9 km resolution from 2011/07 to 2012/07
 %% 2. Use NetCDF package to load the data to Matlab. You might need to understand nc_dump and nc_varget
 % https://oceancolor.gsfc.nasa.gov/l3/
-cd('C:\Users\user\Documents\MATLAB')
+current_folder  = pwd
+cd(current_folder)
 clear;clc;clf
 filename = 'A20022132002243.L3m_MO_SST4_sst4_4km.nc';
 %ncdisp(filename)

@@ -1,7 +1,8 @@
 % 畫ADCP的每日資料(u,v,u+v)
 %80公尺以上的流速容易擾動
 %通常只畫80公尺深以下的資料
-cd('C:\Users\user\Documents\MATLAB')
+current_folder  = pwd
+cd(current_folder)
 clear;clc
 
 load D1S1L000_2

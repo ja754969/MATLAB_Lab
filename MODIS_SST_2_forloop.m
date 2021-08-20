@@ -2,7 +2,8 @@
 clear;clc;clf
 close  all;
 % 用迴圈讀檔 (先讀五個)
-cd('C:\201108_201505NSST') % 設定檔案路徑
+current_folder  = pwd
+cd([current_folder '\201108_201505NSST']) % 設定檔案路徑
 
 a=dir('A*'); % * 意思 : 在資料夾中取出任意一個 A 開頭的檔案
 % a2 = struct2table(a);  %其實可以不用轉table ， table 只是方便查看

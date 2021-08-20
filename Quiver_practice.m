@@ -1,5 +1,6 @@
 clear;clc;close all
-cd('C:\Users\user\Documents\MATLAB')
+current_folder  = pwd
+cd(current_folder)
 %%
 t1 = linspace(-1,100,20);
 y1 = linspace(-1,150,20);

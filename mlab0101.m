@@ -1,7 +1,7 @@
 clear;clc
 % 1. Download RLR monthly data
 % 2. Load the data set to Matlab and comprehend its contents.
-data = readRlrMonthly('C:\Users\mei301\matlab00781035\rlr_monthly\rlr_monthly');
+data = readRlrMonthly('.\rlr_monthly');
 data2=struct2table(data);
 data2.name = categorical(data2.name);
 % 3. Plot the location of all stations on the map

@@ -20,7 +20,7 @@
 % # bad_flag = -9.990e-29
 %% 讀取CTD資料夾裡的所有檔案
 clear;clc;clf
-cd('C:\Users\user\Documents\MATLAB\CTD') % 設定檔案路徑
+cd('.\CTD') % 設定檔案路徑
 
 a=dir;
 %% 用CTD資料夾讀取沒有S開頭的資料，把資料讀進Matlab

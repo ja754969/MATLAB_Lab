@@ -1,7 +1,7 @@
 clear;clc;clf
 % 1. Download RLR monthly data
 % 2. Load the data set to Matlab and comprehend its contents.
-data = readRlrMonthly('C:\Users\user\Documents\MATLAB\rlr_monthly\rlr_monthly');
+data = readRlrMonthly('.\rlr_monthly');
 data2 = struct2table(data); %¸ê®Æ
 data2.name = categorical(data2.name);
 
